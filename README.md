@@ -16,7 +16,7 @@
 
 ## 🧪 실습 및 프로젝트 기록
 
-### 📁 [파일 단어 정렬기](https://github.com/SIMJW816/C-Practice/blob/main/file_array1/main.c)
+### 📁 [파일 단어 정렬기](https://github.com/SIMJW816/C-Practice/blob/main/file_array1)
 - 텍스트 파일에서 단어를 추출하여 정렬하는 프로그램
 - 문자열을 포인터 배열로 관리하며 동적 메모리 사용
 - GDB로 malloc/free 오류 디버깅 경험
